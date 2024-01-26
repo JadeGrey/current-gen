@@ -12,7 +12,7 @@ import wpimath.controller
 import wpimath.trajectory
 
 kWheelRadius = 0.0508
-kEncoderResolution = 4096
+kEncoderResolution = 2048
 kModuleMaxAngularVelocity = math.pi
 kModuleMaxAngularAcceleration = math.tau
 
