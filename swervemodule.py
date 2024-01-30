@@ -11,7 +11,7 @@ import wpimath.geometry
 import wpimath.controller
 import wpimath.trajectory
 
-kWheelRadius = 0.0381
+kWheelRadius = 0.0381  # 1.5in -> 0.0381m
 kEncoderResolution = 2048
 kModuleMaxAngularVelocity = math.pi
 kModuleMaxAngularAcceleration = math.tau
